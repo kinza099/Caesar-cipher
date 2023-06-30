@@ -9,6 +9,8 @@ Mapping the alphabet: Create a mapping between the original alphabet and the shi
 
 Original: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 Shifted: X Y Z A B C D E F G H I J K L M N O P Q R S T U V W
+
+
 Encryption: To encrypt a message, replace each letter in the original message with the corresponding shifted letter. Ignore any non-alphabetic characters and maintain the case (uppercase or lowercase) of the original letters. For example, using a shift value of 3:
 
 Original message: "HELLO, WORLD!"
